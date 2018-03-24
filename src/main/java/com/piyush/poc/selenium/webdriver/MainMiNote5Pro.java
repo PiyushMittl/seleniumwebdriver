@@ -25,7 +25,7 @@ public class MainMiNote5Pro {
 
 		// password
 		Thread.currentThread().sleep(2000);
-		driver.findElement(By.xpath("//*[@id=\"pwd\"]")).sendKeys("Sweetls2607@");
+		driver.findElement(By.xpath("//*[@id=\"pwd\"]")).sendKeys("xxx@");
 
 		// click on login button
 		driver.findElement(By.xpath("//*[@id=\"login-button\"]")).click();
