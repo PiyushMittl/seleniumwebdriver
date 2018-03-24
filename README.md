@@ -1,5 +1,8 @@
 # Seleniumwebdriver buy product on Mi website automation
 
+
+Setup webdriver client on mac:
+
 ![Throughput Graph](https://github.com/PiyushMittl/seleniumwebdriver/blob/master/configure_driver_im1.png)
 
 #### Goto Safari->Preferences
@@ -11,6 +14,7 @@
 #### Develop->Allow Remote Automation
 ![Throughput Graph](https://github.com/PiyushMittl/seleniumwebdriver/blob/master/configure_driver_im4.png)
 
+-----
 
 below are some screenshot with their respective commands:
 
