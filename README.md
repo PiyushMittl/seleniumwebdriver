@@ -36,3 +36,6 @@ driver.findElement(By.xpath("//*[@id=\"username\"]")).sendKeys("9358909659");
 ![Throughput Graph](https://github.com/PiyushMittl/seleniumwebdriver/blob/master/password.png)
 ![Throughput Graph](https://github.com/PiyushMittl/seleniumwebdriver/blob/master/signin.png)
 
+
+
+![sample video link](https://github.com/PiyushMittl/seleniumwebdriver)
